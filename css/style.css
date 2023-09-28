@@ -1,0 +1,45 @@
+* {
+    background-color: #4e4949;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+.title {
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.mid {
+    margin-bottom: 300px;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 50;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+h2{
+    font-size: 25;
+    font-family: cursive;
+    font-weight: 100;
+    color: #fff;
+}
+
+p {
+    font-size: 20px;
+    color: #fff;
+}
+
+a {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #343030;
+    color: #fff;
+    text-decoration: none;
+}

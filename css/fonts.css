@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'vogue';
+    src: url('../components/fonts/vogue/Vogue.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-bold';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-bolditalic';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-BoldItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-light';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-Light.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-lightitalic';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-LightItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-medium';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-Medium.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-mediumitalic';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-MediumItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-regular';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lemonmilk-regularitalic';
+    src: url(../components/fonts/lemon_milk/LEMONMILK-RegularItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'regularbrush';
+    src: url(../components/fonts/regular_brush/RegularBrush.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hellodif';
+    src: url(../components/fonts/hello/Hello.otf);
+    src: url(../components/fonts/hello/Hello.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'shorelines-bold';
+    src: url(../components/fonts/shorelines_script/Shorelines/Script/Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'alta';
+    src: url(../components/fonts/alta-regular-maisfontes.9c5b/alta-regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'eyesome-italic';
+    src: url(../components/fonts/Eyesome/Eyesome/Italic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'eyesome-regular';
+    src: url(../components/fonts/Eyesome/Eyesome/Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'eyesome-script';
+    src: url(../components/fonts/Eyesome/Eyesome\Script.otf);
+    font-weight: normal;
+    font-style: normal;
+}
